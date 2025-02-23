@@ -60,4 +60,4 @@ Contributions to this project are highly appreciated! To contribute, follow thes
 
 ## Author
 
-Pugazhvanan P
+Vettrivelan S
