@@ -25,15 +25,15 @@ This project contains the source code for a Tic-Tac-Toe web application. It offe
 - **Draw Detection:** If all cells are filled without a winner, the game recognizes a draw and ends the match.
 - **Reset Functionality:** Easily reset the game at any time to start a new match and continue the fun.
 
-## Screenshots
+## Images
 
-![](./resources/interface.png)
-![](./resources/dialog_box_of_x_wins.png)
-![](./resources/x_wins.png)
-![](./resources/dialog_box_of_o_wins.png)
-![](./resources/o_wins.png)
-![](./resources/dialog_box_of_match_draw.png)
-![](./resources/draw.png)
+![](Resources/interface.png)
+![](Resources/dialog_box_of_x_wins.png)
+![](Resources/x_wins.png)
+![](Resources/dialog_box_of_o_wins.png)
+![](Resources/o_wins.png)
+![](Resources/dialog_box_of_match_draw.png)
+![](Resources/draw.png)
 
 ## Installation
 
